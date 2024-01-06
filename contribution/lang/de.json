@@ -51,7 +51,7 @@
  	 	 	 	"eng": "Enter pin code"
  	 	 	},
  	 	 	"story": {
- 	 	 	 	"trans": "Du hast einen alten, verschlossenen, Safe gefunden! Sieht so aus als wäre dort ein Zettel mit Text darauf...",
+ 	 	 	 	"trans": "Du hast einen alten, verschlossenen, Safe gefunden! Sieht so aus, als wäre dort ein Zettel mit Text darauf...",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -151,8 +151,8 @@
  	 	 	 	"eng": "Community Content"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Dieser Inhalt wird von der Community beigetragen. Klicke hier um eigene Inhalte beizutragen.",
- 	 	 	 	"eng": "This content is contributed by the community. click here to contribute your own content."
+ 	 	 	 	"trans": "Dieser Inhalt wird von der Community beigesteuert. Klicke hier um eigene Inhalte beizusteuern.",
+ 	 	 	 	"eng": "This content is contributed by the community. Click here to contribute your own content."
  	 	 	}
  	 	},
  	 	"minigame": {
@@ -163,7 +163,7 @@
  	 	 	 	 	 	"eng": "Decryption successful"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Wird bearbeitet",
+ 	 	 	 	 	 	"trans": "In Arbeit",
  	 	 	 	 	 	"eng": "processing"
  	 	 	 	 	}
  	 	 	 	},
@@ -196,7 +196,7 @@
  	 	 	 	 	},
  	 	 	 	 	"button": {
  	 	 	 	 	 	"title": {
- 	 	 	 	 	 	 	"trans": "Versuch es noch einmal",
+ 	 	 	 	 	 	 	"trans": "Versuche es noch einmal",
  	 	 	 	 	 	 	"eng": "Try Again"
  	 	 	 	 	 	}
  	 	 	 	 	}
@@ -205,7 +205,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Die Menschen in der Ukraine, Russland und der ganzen Welt leiden, wegen dem Ehrgeiz eines Mannes.\\n Macht LIEBE, KEINEN Krieg.",
+ 	 	 	 	"trans": "Die Menschen in der Ukraine, Russland und der ganzen Welt leiden wegen dem Ehrgeiz eines Mannes.\\n Macht LIEBE, KEINEN Krieg.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
